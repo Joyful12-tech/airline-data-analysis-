@@ -69,10 +69,6 @@ Key performance indicators calculated:
 - **Tableau** → Dashboard & visualizations
 - **GitHub** → Documentation & portfolio
 
----
-
-## 📷 Dashboard Preview
-![airline dasboard](https://github.com/user-attachments/assets/20848faf-7c83-45f0-a6a2-ccbdb74f889f)
 
 
 
